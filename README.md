@@ -394,9 +394,8 @@ pacman -S mingw-w64-x86_64-poppler
 
 ## 👤 Auteur et licence
 
-- **Auteur :** *[Votre nom / pseudo GitHub]*
-- **Licence :** MIT — voir le fichier `LICENSE` (à ajouter)
-- **Année :** 2024
+- **Auteur :** *Saad AIT YAHIA / Saad-programmer
+- **Année :** 2026
 
 > 📝 Ce projet est fourni à des fins **pédagogiques**. N'hésitez pas à forker, modifier et expérimenter !
 
